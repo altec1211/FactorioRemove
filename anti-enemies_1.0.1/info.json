@@ -1,0 +1,9 @@
+{
+  "name": "anti-enemies",
+  "version": "1.0.1",
+  "title": "Anti Enemies",
+  "author": "Moi",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Supprime les ennemis et leurs bases toutes les 60 secondes."
+}
